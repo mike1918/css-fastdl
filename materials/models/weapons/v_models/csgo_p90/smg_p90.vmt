@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\csgo_p90\smg_p90"
+
+	"$phong" "1"
+	"$phongboost" "1.2"
+	"$phongalbedoboost" "30"
+	"$phongfresnelranges" "[.83 .83 1]"
+	"$phongexponenttexture" "models\weapons\v_models\csgo_p90\smg_p90_exponent"
+
+	"$basemapalphaphongmask" "1"
+
+	"$phongalbedotint" "1"
+
+	"$phongdisablehalflambert" "1"
+}
+
+
+
+
+
+
+

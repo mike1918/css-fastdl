@@ -1,0 +1,21 @@
+VertexLitGeneric
+{
+	"$basetexture"          models\weapons\awp_csgo_newport\glove_bloodhound
+        "$envmap"                   "env_cubemap"
+	"$envmapsaturation"         "-0.7"
+	"$envmaplightscale"         "1.0"
+	"$envmaplightscaleminmax"   "[-.05 1]"
+	"$envmaptint"               "[ .015 .015 .025 ]"
+	"$normalmapalphaenvmapmask" "1"
+	"$bumpmap"                  "models\weapons\awp_csgo_newport\glove_bloodhound_normal"
+	"$phong"                    "1"
+	"$phongboost"               "10"
+	"$phongalbedoboost"         "10"
+	"$phongexponent" "3"
+	"$phongtint"                "[2.1 2.4 3]"
+	"$rimlight"                 "1"
+	"$rimlightexponent"         "10"
+	"$rimlightboost"            ".2"
+	"$rimmask"                  "1"
+	"$ambientreflectionboost"   "0.035"
+}

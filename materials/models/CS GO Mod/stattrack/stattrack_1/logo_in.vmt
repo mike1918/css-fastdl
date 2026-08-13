@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture 			"models\CS GO Mod\stattrack\stattrack_1\logo_in"
+	$selfillum 				"1"
+}

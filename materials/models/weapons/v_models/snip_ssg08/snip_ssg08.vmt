@@ -1,0 +1,14 @@
+
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\snip_ssg08\snip_ssg08"
+	"$phongexponenttexture" "models\weapons\v_models\snip_ssg08\snip_ssg08_exponent"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[.01 .01 .01]"
+	"$envmapcontrast" .7
+	"$phong" "1"
+	"$phongboost" "0.5"
+	"$phongfresnelranges" "[.83 .83 1]"
+	"$phongalbedotint" 1
+}
+

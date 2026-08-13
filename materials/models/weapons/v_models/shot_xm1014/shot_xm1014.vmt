@@ -1,0 +1,21 @@
+
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\shot_xm1014\shot_xm1014"
+	"$bumpMap"	"models\weapons\v_models\shot_xm1014\shot_xm1014_normall"
+	"$phongexponenttexture" "models\weapons\v_models\shot_xm1014\shot_xm1014_exponent"
+
+	"$phong" "1"
+	"$phongboost" "25"
+	"$phongalbedoboost" "40"
+	"$phongfresnelranges" "[.95 .95 1.5]"
+	"$phongexponent" 50
+
+	"$basemapalphaphongmask" "1"
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "1"
+	
+	//"$envmap" "env_cubemap"
+	"$envmapfresnel" "1"
+	"$envmaptint" 		"[.35 .35 .35]"
+}

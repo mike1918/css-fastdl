@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models\weapons\v_models\arms\glove_fingerless"
+	"$phongexponenttexture" "models\weapons\v_models\arms\glove_fingerless_exp"
+	"$bumpmap"   			"models\weapons\v_models\arms\glove_fingerless_normal"
+	"$phong"                "1"
+	"$phongboost"           "1"
+	"$rimmask"              1
+	"$phongfresnelranges"   "[.2 .3 .5]"	
+	"$phongtint"            "[.3 .3 .3]"
+	"$rimlight"             "1"
+	"$rimlightboost"        ".2"
+	"$rimlightexponent"     "5"
+}
+//Port by TheZombieDon https://gamebanana.com/members/1660740

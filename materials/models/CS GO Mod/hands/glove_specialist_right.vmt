@@ -1,0 +1,17 @@
+"vertexlitgeneric"
+{              
+	"$basetexture"            "models\CS GO Mod\hands/glove_specialsit"
+	"$phongexponenttexture"   "models\CS GO Mod\hands/exponent"
+        "$envmap"                   env_cubemap
+	"$envmaptint"               "[ .01 .01 .02 ]"
+	"$normalmapalphaenvmapmask" 1
+        "$phong"                    1
+	"$phongboost"               1
+	"$phongalbedoboost"         7
+	$phongtint				"[0.7 0.8 1]"
+	$phongfresnelranges		"[1 1 3]"
+	$rimlight					1
+	$rimlightexponent			10
+	$rimlightboost			.7
+	$rimmask					1
+}              

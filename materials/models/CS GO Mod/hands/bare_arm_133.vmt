@@ -1,0 +1,18 @@
+vertexlitgeneric
+{
+	"$basetexture"          "models\CS GO Mod\hands/bare_arm_133"
+	"$basealphaenvmapmask"  1
+	"$bumpmap"              "mmodels\CS GO Mod\hands/bare_arm_133_normal"
+	"$phongexponenttexture" "models\CS GO Mod\hands/bare_arm_133_exp"
+	"$phong"                1
+	"$phongboost"           2
+	"$phongalbedotint"      1
+	"$phongalbedoboost"     80
+	"$phongtint"            "[0.7 0.8 1]"
+	"$phongfresnelranges"   "[0.3 0.5 1]"
+	"$rimlight"             1
+	"$rimlightexponent"     14
+	"$rimlightboost"        0.05
+	"$rimmask"              1
+	"$halflambert"          1
+}

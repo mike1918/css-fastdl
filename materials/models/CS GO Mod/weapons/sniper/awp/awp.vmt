@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\CS GO Mod\weapons\sniper\awp\awp"
+	
+	"$phong" "1"
+	"$phongboost" "51"
+	"$phongalbedoboost" "51"
+	"$phongfresnelranges" "[.51 .51 1]"
+	"$phongexponent" 5
+	"$phongexponenttexture" "models\CS GO Mod\weapons\sniper\awp\awp_exponent"
+	
+	 
+	"$basemapalphaphongmask" "1"
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "5"
+}
+

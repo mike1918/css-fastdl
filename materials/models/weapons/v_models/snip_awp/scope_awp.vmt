@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+    "$phongdisablehalflambert" "1"
+	"$baseTexture" "models\weapons\v_models\snip_awp\scope_awp_tzd"
+	"$bumpMap" "models\weapons\v_models\snip_awp\scope_awp_tzd_normal"
+	"$phong" "1"
+	"$phongBoost" "1"
+	"$phongExponent" "200"
+	"$phongTint" "[ .8 1 .9 ]"
+	"$phongFresnelRanges" "[.2 .2 1]"	
+	"$envmap" "env_cubemap"
+	"$envmapfresnel" "1"
+	"$envmaptint" 		"[ .16 .2 .16 ]"
+}
+//Port by TheZombieDon https://gamebanana.com/members/1660740

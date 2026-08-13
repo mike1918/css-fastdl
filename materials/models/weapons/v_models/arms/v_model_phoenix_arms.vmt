@@ -1,0 +1,17 @@
+vertexlitgeneric
+{
+	"$basetexture"          models/weapons/v_models/arms/v_model_phoenix_arms
+	"$basealphaenvmapmask"  1
+	"$bumpmap"              models/weapons/v_models/arms/v_model_phoenix_arms_normal
+	"$phong"                1
+	"$phongboost"           1
+	"$phongalbedotint"      1
+	"$phongalbedoboost"     10
+	"$phongtint"            "[0.7 0.8 1]"
+	"$phongfresnelranges"   "[0.3 0.5 1]"
+	"$rimlight"             1
+	"$rimlightexponent"     14
+	"$rimlightboost"        0.05
+	"$rimmask"              1
+	"$halflambert"          1
+}

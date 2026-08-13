@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	$basetexture 			 "models/weapons/v_models/stickers/pgl_ska"
+	$bumpmap 				 "models/weapons/v_models/stickers/pgl_ska_normal"
+	$lightwarptexture     	 "models/weapons/v_models/stickers/pgl_ska_lightwarp"
+    $translucent 1
+}
+//Port by TheZombieDon https://gamebanana.com/members/1660740
